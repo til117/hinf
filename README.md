@@ -31,6 +31,11 @@ macro
 
 Now the simulation should start and plot the results when ready.
 
+# Input system
+
 The system to control in this lab is an electrical device powered by the 50 Hz (100π rad/s)
 power grid.
 
+# Instructions
+
+Just run the MainFile.m
